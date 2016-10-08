@@ -1,0 +1,27 @@
+![icon](https://dl.dropboxusercontent.com/s/7iz5ono4npkquvq/SnowAlarmVC66aA02a.png)
+<br>
+<br>
+#An alarm clock that shuts off on snow days
+Created in Python using Tkinter, pygame, pytz, and tzlocal
+<br>
+<br>
+#Install & Run
+```
+git clone https://github.com/CometCoder/SnowDayAlarmClock/
+pip install pygame pytz tzlocal
+cd SnowDayAlarmClock
+python AlarmGUI.py
+```
+<br>
+#Change Alarm Sound
+Simply find a ```.wav``` file that you would like to use and copy it to projects folder. Then, delete the old ```alarm.wav``` and rename your new file to ```alarm.wav```.
+<br>
+<br>
+#License
+Alarm sound (alarm.wav) is classified as public domain and was downloaded from <br>
+http://soundbible.com/1787-Annoying-Alarm-Clock.html
+<br><br>
+* All code is free for non-commerical use
+* You may not claim this code as your own
+* If you modify the code, you must give credit to this repository
+* I am not held responsible 
