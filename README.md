@@ -21,4 +21,4 @@ Simply find a ```.wav``` file that you would like to use and copy it to projects
 Alarm sound (alarm.wav) is classified as public domain and was downloaded from <br>
 http://soundbible.com/1787-Annoying-Alarm-Clock.html
 <br><br>
-As for the code, the license is highlighted in [LICENSE](https://github.com/CometCoder/SnowDayAlarmClock/LICENSE)
+As for the code, the license is highlighted in [LICENSE](https://github.com/CometCoder/SnowDayAlarmClock/blob/master/LICENSE)
