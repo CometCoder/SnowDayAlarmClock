@@ -216,7 +216,8 @@ menubar.add_cascade(label="Settings", menu=settings_menu)
 master.config(menu=menubar)
 update_time()
 #Maximize window
-master.state('zoomed')
+w, h = master.winfo_screenwidth(), master.winfo_screenheight()
+master.geometry("%dx%d+0+0" % (w, h))
 
 master.mainloop()
 master.destroy()
