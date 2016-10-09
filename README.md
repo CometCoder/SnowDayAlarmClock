@@ -8,7 +8,8 @@ Created in Python using Tkinter, pygame, pytz, and tzlocal
 #Install & Run
 ```
 git clone https://github.com/CometCoder/SnowDayAlarmClock/
-pip install pygame pytz tzlocal
+pip install pytz tzlocal
+sudo apt-get install python-tk python-pygame
 cd SnowDayAlarmClock
 python AlarmGUI.py
 ```
