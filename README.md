@@ -13,7 +13,7 @@ sudo apt-get install python-tk python-pygame
 cd SnowDayAlarmClock
 python AlarmGUI.py
 ```
-## Cange Alarm Sound
+## Change Alarm Sound
 Simply find a ```.wav``` file that you would like to use and copy it to projects folder. Then, delete the old ```alarm.wav``` and rename your new file to ```alarm.wav```.
 <br>
 <br>
